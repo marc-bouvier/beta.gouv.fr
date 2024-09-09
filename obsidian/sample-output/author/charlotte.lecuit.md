@@ -1,0 +1,51 @@
+---
+fullname: Charlotte Lecuit
+domaine: Produit
+role: Product Owner
+github: charlottelecuit
+missions:
+  - start: 2018-05-14
+    end: 2019-06-30
+    status: admin
+    employer: dinum
+  - start: 2020-04-01
+    end: 2021-12-31
+    status: independent
+    employer: Octo
+  - start: 2021-12-01
+    end: 2023-01-31
+    status: independent
+    employer: Octo
+  - start: 2024-03-07
+    end: 2024-12-31
+    status: independent
+    employer: Malt
+  - start: 2024-03-11
+    end: 2024-07-31
+    status: independent
+    employer: Malt
+startups:
+  - monprojetsup
+previously:
+  - mes-aides
+  - la-bonne-formation
+  - aides.jeunes
+  - la-bonne-alternance
+competences:
+  - Gestion de Produit
+  - Croissance
+---
+
+competences:
+
+- [[competence/Gestion de Produit]]
+- [[competence/Croissance]]
+
+startups:
+- [[startup/monprojetsup]]
+
+previously:
+- [[startup/mes-aides]]
+- [[startup/la-bonne-formation]]
+- [[startup/aides.jeunes]]
+- [[startup/la-bonne-alternance]]

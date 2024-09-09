@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:startup  ",
+      "color": {
+        "a": 1,
+        "rgb": 9959338
+      }
+    },
+    {
+      "query": "path:incubator  ",
+      "color": {
+        "a": 1,
+        "rgb": 9276654
+      }
+    },
+    {
+      "query": "path:author  ",
+      "color": {
+        "a": 1,
+        "rgb": 15786127
+      }
+    },
+    {
+      "query": "path:thematique  ",
+      "color": {
+        "a": 1,
+        "rgb": 14980596
+      }
+    },
+    {
+      "query": "path:competence",
+      "color": {
+        "a": 1,
+        "rgb": 15381427
+      }
+    },
+    {
+      "query": "path:techno  ",
+      "color": {
+        "a": 1,
+        "rgb": 2303
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6644178840509208,
+  "close": true
+}
